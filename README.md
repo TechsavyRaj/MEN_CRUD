@@ -23,7 +23,6 @@ This repo provides a basic backend setup to manage data via RESTful APIs.
 MEN_CRUD/
 │
 ├── models/            # Data models / schema definitions
-├── .vscode/           # VS Code settings (optional)
 ├── index.js           # Entry point of the application / API server
 ├── package.json
 └── package-lock.json
