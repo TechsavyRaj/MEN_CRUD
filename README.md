@@ -69,7 +69,7 @@ By default, the server will start on the port defined in your `.env` (or fallbac
 
 ## 📚 Usage Example
 
-Assuming you have a `User` model:
+We have a `User` model so:
 
 ```bash
 # Create a new user (POST /users)
